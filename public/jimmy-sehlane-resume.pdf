@@ -1,0 +1,154 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F1 20 Tf
+50 750 Td
+(JIMMY SEHLANE) Tj
+0 -30 Td
+/F2 12 Tf
+(Software Developer) Tj
+0 -20 Td
+(Email: sehlanetj2@gmail.com) Tj
+0 -15 Td
+(Phone: +27 (0) 67 226 1634) Tj
+0 -15 Td
+(Location: Pretoria, South Africa) Tj
+
+0 -40 Td
+/F1 16 Tf
+(PROFESSIONAL SUMMARY) Tj
+0 -20 Td
+/F2 11 Tf
+(Passionate Software Developer specializing in end-to-end software solutions.) Tj
+0 -15 Td
+(Expertise in React, TypeScript, Java, C#, Node.js, PostgreSQL, and cloud deployment.) Tj
+0 -15 Td
+(Proven experience building scalable, secure, production-ready applications.) Tj
+
+0 -30 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 11 Tf
+(Programming Languages: JavaScript/TypeScript, Java, C#, HTML5/CSS3, SQL) Tj
+0 -15 Td
+(Frontend: React, Tailwind CSS, Next.js, Responsive Design) Tj
+0 -15 Td
+(Backend: Node.js, RESTful APIs, GraphQL, Microservices) Tj
+0 -15 Td
+(Database: PostgreSQL, SQL Databases, Supabase, Database Design) Tj
+0 -15 Td
+(Security: JWT/OAuth, Rate Limiting, Input Validation, RBAC Systems) Tj
+0 -15 Td
+(DevOps: Vercel/Netlify, Docker, CI/CD Pipelines, Monitoring) Tj
+0 -15 Td
+(Testing: Jest/Vitest, E2E Testing, Code Review, Performance Optimization) Tj
+
+0 -30 Td
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F2 11 Tf
+(Diploma in IT (Software Development)) Tj
+0 -15 Td
+(Rosebank College - 2024) Tj
+
+0 -30 Td
+/F1 16 Tf
+(KEY PROJECTS) Tj
+0 -20 Td
+/F2 11 Tf
+(E-commerce Platform: Full-stack solution with payment integration) Tj
+0 -15 Td
+(SaaS Dashboard: Real-time analytics with secure authentication) Tj
+0 -15 Td
+(Project Management Tool: Collaborative platform with role-based access) Tj
+
+0 -30 Td
+/F1 16 Tf
+(CERTIFICATIONS) Tj
+0 -20 Td
+/F2 11 Tf
+(• Full-Stack Software Development) Tj
+0 -15 Td
+(• Database Architecture & Optimization) Tj
+0 -15 Td
+(• API Development & Security) Tj
+0 -15 Td
+(• Cloud Architecture & DevOps) Tj
+0 -15 Td
+(• Software Testing & Quality Assurance) Tj
+0 -15 Td
+(• Authentication & Authorization Systems) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003126 00000 n 
+0000003202 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3273
+%%EOF
